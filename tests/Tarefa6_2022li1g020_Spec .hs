@@ -1,0 +1,6 @@
+module Tarefa6_2022li1g020_Spec where
+
+import LI12223
+import Tarefa6_2022li1g020
+import Test.HUnit
+
